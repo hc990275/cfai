@@ -1,0 +1,15 @@
+{
+  "name": "cloudflare-ai-worker",
+  "version": "1.0.0",
+  "description": "A simple Cloudflare Worker using Cloudflare AI",
+  "main": "worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cloudflare/ai": "^1.0.53"
+  }
+}

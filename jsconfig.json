@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "nodenext",
+        "moduleResolution": "nodenext",
+        "target": "esnext",
+        "lib": [
+            "esnext",
+            "webworker"
+        ],
+        "checkJs": true
+    },
+    "include": [
+        "**/*.js"
+    ]
+}
